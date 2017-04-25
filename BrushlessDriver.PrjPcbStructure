@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=BrushlessDriver.SchDoc
+Record=TopLevelDocument|FileName=Driver.SchDoc
+Record=SheetSymbol|SourceDocument=Driver.SchDoc|Designator=U_CurrentSenseLowSide|SchDesignator=U_CurrentSenseLowSide|FileName=CurrentSenseLowSide.SchDoc|SymbolType=Normal|RawFileName=CurrentSenseLowSide.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Driver.SchDoc|Designator=U_CurrentSenseLowSide|SchDesignator=U_CurrentSenseLowSide|FileName=CurrentSenseLowSide.SchDoc|SymbolType=Normal|RawFileName=CurrentSenseLowSide.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Driver.SchDoc|Designator=U_CurrentSenseLowSide|SchDesignator=U_CurrentSenseLowSide|FileName=CurrentSenseLowSide.SchDoc|SymbolType=Normal|RawFileName=CurrentSenseLowSide.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
