@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AMFYWMHH
 
 [Document5]
-DocumentPath=..\..\..\personal\battman\V3\pcb\BMS\12V_Buck.SchDoc
+DocumentPath=12V_Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -376,6 +376,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDXSRWEN
+
+[Document21]
+DocumentPath=3V3_StepDown.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWIHDJRJ
 
 [Configuration1]
 Name=Sources
