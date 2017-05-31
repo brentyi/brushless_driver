@@ -225,57 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=CurrentSense.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=REHMNPOM
-
-[Document13]
-DocumentPath=GateDriver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LQBTVCST
-
-[Document14]
-DocumentPath=MAX17502.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XKVETSKU
-
-[Document15]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,24 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWGPHFUW
 
-[Document16]
-DocumentPath=CAN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SLXKDHHA
-
-[Document17]
+[Document13]
 DocumentPath=CAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document14]
 DocumentPath=BrushlessDriver.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document15]
 DocumentPath=RS485.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document16]
 DocumentPath=BrushlessDriver.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDXSRWEN
 
-[Document21]
+[Document17]
 DocumentPath=3V3_StepDown.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWIHDJRJ
 
-[Document22]
+[Document18]
 DocumentPath=CurrentSenseAmpBias.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,6 +342,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDQEJLSQ
+
+[Document19]
+DocumentPath=BrushlessDriver.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ECTEONIG
 
 [Configuration1]
 Name=Sources
@@ -1367,11 +1316,13 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=GVDD|NetColor=$00D7D7FF
-Net2=NetName=NetR3_1|NetColor=$00DFDFDF
-Net3=NetName=VDD|NetColor=$00A5A5FF
-Net4=NetName=VCC|NetColor=$006E6EFF
-Net5=NetName=GND|NetColor=$00DFDFDF
+Net1=NetName=NetR9_2|NetColor=$00C3C3FF
+Net2=NetName=VDD|NetColor=$00A5A5FF
+Net3=NetName=GVDD|NetColor=$00D7D7FF
+Net4=NetName=NetR3_1|NetColor=$00DFDFDF
+Net5=NetName=VCC|NetColor=$006E6EFF
+Net6=NetName=3V3|NetColor=$00C3C3FF
+Net7=NetName=GND|NetColor=$00DFDFDF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
