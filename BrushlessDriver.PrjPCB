@@ -360,58 +360,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AS5047D_Breakout\NC Drill\BrushlessDriver.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\BrushlessDriver.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for AS5047D_Breakout\NC Drill\BrushlessDriver.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1368,13 +1316,13 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=NetR9_2|NetColor=$00C3C3FF
+Net1=NetName=GND|NetColor=$00DFDFDF
 Net2=NetName=VDD|NetColor=$00A5A5FF
 Net3=NetName=GVDD|NetColor=$00D7D7FF
 Net4=NetName=NetR3_1|NetColor=$00DFDFDF
 Net5=NetName=VCC|NetColor=$006E6EFF
-Net6=NetName=3V3|NetColor=$00C3C3FF
-Net7=NetName=GND|NetColor=$00DFDFDF
+Net6=NetName=NetR9_2|NetColor=$00C3C3FF
+Net7=NetName=3V3|NetColor=$00C3C3FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
