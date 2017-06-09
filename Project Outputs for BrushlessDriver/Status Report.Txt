@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 6:25:40 PM On 6/6/2017
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [BrushlessDriver.PrjPCB]
-   Generated File[Bill of Materials-BrushlessDriver.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BrushlessDriver.PcbDoc]
+   Generated File[BrushlessDriver.TXT]
+   Generated File[BrushlessDriver.LDP]
+   Generated File[BrushlessDriver.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:25:43 PM On 6/6/2017
+Finished Output Generation At 8:50:33 PM On 6/8/2017
